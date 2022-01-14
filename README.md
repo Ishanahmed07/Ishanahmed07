@@ -1,7 +1,10 @@
 ### Hi there 👋 
 🌱 I’m currently learning python and 
 📫 How to reach me : ishanahmed9660@gamil.com
+    Instagram - https://www.instagram.com/_ish4n_/
 🔭 I am ready to contribute in a project
+
+
 <!--
 **Ishanahmed07/Ishanahmed07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
