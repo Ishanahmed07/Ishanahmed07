@@ -5,7 +5,7 @@
 
    Instagram - https://www.instagram.com/_ish4n_/
     
-🔭 I am ready to contribute in a project
+🔭 I am ready to contribute on open source project
 
 
 <!--
