@@ -1,4 +1,4 @@
-### Hi there Hi.gif 
+### Hi there Assets/Hi.gif 
 🌱 I’m currently learning python and 
 
 📫 How to reach me : ishanahmed9660@gamil.com
