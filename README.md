@@ -10,7 +10,7 @@ My name is Ishan Ahmed and currently I am in second year pursuing my Bachelor's 
 
    Instagram - https://www.instagram.com/_ish4n_/
    
-👀 I’m interested in learning and exploring new things..!!
+👀 I want to learn and explore new things..!!
 
 
 
