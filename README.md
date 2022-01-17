@@ -1,13 +1,16 @@
 ### Hi there 
 
-My name is #Ishan Ahmed and currently i am in second year pursuing my Bachelor's Degree in Computer Science.
-🌱 I’m currently learning python and 
+My name is Ishan Ahmed and currently i am in second year pursuing my Bachelor's Degree in Computer Science.
+
+🔭 I’m currently working to begin with an open source project
+
+🌱 I’m currently learning basics of python and DSA in java   
 
 📫 How to reach me : ishanahmed9660@gamil.com
 
    Instagram - https://www.instagram.com/_ish4n_/
-    
-🔭 I am ready to contribute on open source project
+   
+
 
 
 <!--
