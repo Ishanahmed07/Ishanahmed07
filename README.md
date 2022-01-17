@@ -1,4 +1,6 @@
 ### Hi there 
+
+My name is ###Ishan Ahmed and currently i am in second year pursuing my Bachelor's Degree in Computer Science.
 🌱 I’m currently learning python and 
 
 📫 How to reach me : ishanahmed9660@gamil.com
