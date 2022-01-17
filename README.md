@@ -1,6 +1,7 @@
 ### Hi there 
 
 My name is Ishan Ahmed and currently I am in second year pursuing my Bachelor's Degree in Computer Science.
+
 🔭 I’m currently working to begin with an open source project
 
 🌱 I’m currently learning basics of python and DSA in java   
