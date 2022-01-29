@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there Assets/Developer.gif
 
 My name is Ishan Ahmed and currently I am in second year pursuing my Bachelor's Degree in Computer Science.
 
