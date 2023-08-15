@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ishan Ahmed and currently I am in final year pursuing my Bachelor's Degree in Computer Science from Mumbai University.
+I am currently in my final year of Computer Engineering Degree in B.E from Mumbai University. I am willing to explore different technologies and gain more knowledge. Skilled in team collaboration, clear technical communication, and adapting to dynamic projects. Seeking a chance to work on innovative projects where I can use my dedication and technical knowledge to advance my development as an innovative engineer.
 
 🔭 I’m currently working to begin with an open source project
 
