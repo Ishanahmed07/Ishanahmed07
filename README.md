@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Ishan Ahmed and currently I am in third year pursuing my Bachelor's Degree in Computer Science from Mumbai University.
+My name is Ishan Ahmed and currently I am in final year pursuing my Bachelor's Degree in Computer Science from Mumbai University.
 
 🔭 I’m currently working to begin with an open source project
 
-🌱 I’m currently learning basics of python and DSA in java   
+🌱 I’m currently learning python and ML   
 
 📫 How to reach me : ishanahmed9660@gamil.com
 
