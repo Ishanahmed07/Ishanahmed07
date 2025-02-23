@@ -8,7 +8,7 @@ I am currently in my final year of Computer Engineering Degree in B.E from Mumba
 
 📫 How to reach me : ishanahmed9660@gamil.com
 
-   Instagram - https://www.instagram.com/_ish4n_/
+   Instagram - 
    
    LinkedIn - https://www.linkedin.com/in/ishan-ahmed-4b13b4208/
    
