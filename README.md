@@ -17,9 +17,9 @@
 
 ### 🛠️ Tech Stack & Skills  
 - **Languages:** Python 🐍 | SQL 🗄️ | JavaScript ⚡ | PHP 🌐  
-- **Frameworks & Libraries:** React ⚛️ | .NET Core 🔗 | OpenCV 📸 | TensorFlow 🤖 | Scikit-learn 📊  
-- **Databases:** MySQL | MS SQL | PostgreSQL  
-- **Tools:** Git 🚀 | Docker 🐳 | Tableau 📊 | Power BI 📈  
+- **Frameworks & Libraries:** React ⚛️ | OpenCV 📸 | TensorFlow 🤖 | Scikit-learn 📊  
+- **Databases:** MySQL | PostgreSQL  
+- **Tools:** Git 🚀 | Tableau 📊 | Power BI 📈  
 
 ---
 
