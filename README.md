@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hey there, I'm Ishan Ahmed! 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+AI+%7C+Full-Stack+Development;Passionate+about+turning+data+into+insights!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Passionate+about+turning+data+into+insights!;">
 </p>
+
+
 
 ---
 
@@ -31,9 +33,9 @@
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishanahmed07&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishanahmed07&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishanahmed07&show_icons=true&theme=radical" height="165"><p align="center">
 </p>
+
 
 ---
 
@@ -43,6 +45,5 @@
 📧 **Email:** ishanahmed9660@gmail.com  
 
 ---
-
-⭐ **Fun Fact:** _"AI is not going to replace you. A person using AI will!"_  
+ 
 💬 Feel free to reach out – I'm always open to new opportunities and collaborations!
