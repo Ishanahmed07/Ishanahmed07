@@ -26,8 +26,7 @@
 ### 🚀 Featured Projects  
 ✅ **[Sign Language Recognition](https://github.com/Ishanahmed07/Hand-Gesture-Recognition)** – ML-powered system for recognizing hand gestures.  
 ✅ **[Image Mosaicing](https://github.com/Ishanahmed07/Image-Mosaicing)** – Computer Vision project for image stitching.  
-✅ **[Crypto Tracker](https://github.com/Ishanahmed07/CryptoTrackerProject)** – Real-time cryptocurrency price tracking app.  
-✅ **[Student Attendance System](https://github.com/Ishanahmed07)** – .NET Core-based attendance management system with JWT authentication.  
+✅ **[Crypto Tracker](https://github.com/Ishanahmed07/CryptoTrackerProject)** – Real-time cryptocurrency price tracking app.   
 
 ---
 
