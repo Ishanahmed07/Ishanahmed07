@@ -1,33 +1,48 @@
-### Hi there 👋
+<h1 align="center">👋 Hey there, I'm Ishan Ahmed! 🚀</h1>
 
-I am currently in my final year of Computer Engineering Degree in B.E from Mumbai University. I am willing to explore different technologies and gain more knowledge. Skilled in team collaboration, clear technical communication, and adapting to dynamic projects. Seeking a chance to work on innovative projects where I can use my dedication and technical knowledge to advance my development as an innovative engineer.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+AI+%7C+Full-Stack+Development;Passionate+about+turning+data+into+insights!">
+</p>
 
-🔭 I’m currently working to begin with an open source project
+---
 
-🌱 I’m currently learning python and ML   
+### 🌟 About Me  
+💡 **Master's student in Data Science at the University of Greenwich** with a passion for **AI, machine learning, big data analytics, and full-stack development**.  
+🔍 Always exploring **data-driven solutions** and cutting-edge technologies to solve real-world problems.  
+👨‍💻 Former **Project Intern at Tata Institute of Fundamental Research (TIFR)**, where I worked on **React UI/UX components, API integration, and frontend performance optimization**.  
 
-📫 How to reach me : ishanahmed9660@gamil.com
+---
 
-   Instagram - 
-   
-   LinkedIn - https://www.linkedin.com/in/ishan-ahmed-4b13b4208/
-   
-👀 I want to learn and explore new things..!!
+### 🛠️ Tech Stack & Skills  
+- **Languages:** Python 🐍 | SQL 🗄️ | JavaScript ⚡ | PHP 🌐  
+- **Frameworks & Libraries:** React ⚛️ | .NET Core 🔗 | OpenCV 📸 | TensorFlow 🤖 | Scikit-learn 📊  
+- **Databases:** MySQL | MS SQL | PostgreSQL  
+- **Tools:** Git 🚀 | Docker 🐳 | Tableau 📊 | Power BI 📈  
 
+---
 
+### 🚀 Featured Projects  
+✅ **[Sign Language Recognition](https://github.com/Ishanahmed07/Hand-Gesture-Recognition)** – ML-powered system for recognizing hand gestures.  
+✅ **[Image Mosaicing](https://github.com/Ishanahmed07/Image-Mosaicing)** – Computer Vision project for image stitching.  
+✅ **[Crypto Tracker](https://github.com/Ishanahmed07/CryptoTrackerProject)** – Real-time cryptocurrency price tracking app.  
+✅ **[Student Attendance System](https://github.com/Ishanahmed07)** – .NET Core-based attendance management system with JWT authentication.  
 
+---
 
-<!--
-**Ishanahmed07/Ishanahmed07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishanahmed07&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishanahmed07&theme=radical" height="165">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Let's Connect!  
+📂 **Portfolio:** [ishanahmed07.github.io/Portfolio](https://ishanahmed07.github.io/Portfolio)  
+🔗 **LinkedIn:** [linkedin.com/in/ishan-ahmed-4b13b4208](https://www.linkedin.com/in/ishan-ahmed-4b13b4208/)  
+📧 **Email:** ishanahmed9660@gmail.com  
+
+---
+
+⭐ **Fun Fact:** _"AI is not going to replace you. A person using AI will!"_  
+💬 Feel free to reach out – I'm always open to new opportunities and collaborations!
