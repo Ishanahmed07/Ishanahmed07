@@ -9,7 +9,7 @@
 ---
 
 ### 🌟 About Me  
-💡 **Master's student in Data Science at the University of Greenwich** with a passion for **AI, machine learning, big data analytics, and full-stack development**.  
+💡 **Master's student in Data Science at the University of Greenwich** with a passion for **AI, machine learning, big data analytics, and a bit of web development**.  
 🔍 Always exploring **data-driven solutions** and cutting-edge technologies to solve real-world problems.  
 👨‍💻 Former **Project Intern at Tata Institute of Fundamental Research (TIFR)**, where I worked on **React UI/UX components, API integration, and frontend performance optimization**.  
 
