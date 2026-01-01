@@ -40,7 +40,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Let's Connect!  
 📂 **Portfolio:** [ishanahmed07.github.io/Portfolio](https://ishanahmed07.github.io/Portfolio)  
-🔗 **LinkedIn:** [linkedin.com/in/ishan-ahmed-4b13b4208](https://www.linkedin.com/in/ishan-ahmed-4b13b4208/)  
+**[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">]:** [linkedin.com/in/ishan-ahmed-4b13b4208](https://www.linkedin.com/in/ishan-ahmed-4b13b4208/)  
 📧 **Email:** ishanahmed9660@gmail.com  
 
 ---
