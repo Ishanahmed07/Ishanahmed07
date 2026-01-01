@@ -1,4 +1,4 @@
-<h1 align="center">### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">👋 Hey there, I'm Ishan Ahmed! 🚀</h1>
+<h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  Hey there, I'm Ishan Ahmed! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Passionate+about+turning+data+into+insights!;">
