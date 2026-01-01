@@ -19,7 +19,7 @@
 - **Languages:** Python 🐍 | SQL 🗄️ | JavaScript ⚡ | HTML & CSS
 - **Frameworks & Libraries:** React ⚛️ | OpenCV 📸 | TensorFlow 🤖 | Scikit-learn 📊  
 - **Databases:** MySQL | PostgreSQL  
-- **Tools:** Git 🚀 | Tableau 📊 | Power BI 📈  
+- **Tools:** Git 🚀 | Tableau 📊 
 
 ---
 
